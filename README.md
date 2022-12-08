@@ -1,1 +1,1 @@
-# Newton-School-Assignment-ans-Projects
+# Newton-School-Assignment-and-Projects
