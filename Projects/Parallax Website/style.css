@@ -32,9 +32,38 @@ div{
 
 .img0, .img1, .img2, .img3, .img4{
     position: relative;
-    opacity: .65;
+    opacity: .75;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+.section{
+    text-align: center;
+    padding: 20px 50px;
+    line-height: 1.5rem;    
+}
+.sec-light{
+    background-color: #FCFFE7;
+    color: #181818;
+}
+.sec-dark{
+    background-color: #181818;
+    color: #FCFFE7;
+}
+.htext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #FCFFE7;
+    font-size: 2rem;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-shadow: 1.5px 1.5px #181818;
+}
+.wrapper1{
+    background-color: #181818;
+    padding: 10px;
+    border-radius: 5px;
 }
