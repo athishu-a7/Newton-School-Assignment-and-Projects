@@ -1,0 +1,40 @@
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+div{
+    display: block;
+}
+
+.img0{
+    background-image: url(./Pillars\ of\ creation.png);
+    min-height: 500px;
+}
+.img1{
+    background-image: url(./karina\ nebula.png);
+    min-height: 350px;
+}
+.img2{
+    background-image: url(./StephensQuintet.png);
+    min-height: 350px;
+}
+.img3{
+    background-image: url(./Southern\ Ring\ Nebula.png);
+    min-height: 350px;
+}
+.img4{
+    background-image: url(./SMACS.png);
+    min-height: 350px;
+}
+
+.img0, .img1, .img2, .img3, .img4{
+    position: relative;
+    opacity: .65;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
