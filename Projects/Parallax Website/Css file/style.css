@@ -10,23 +10,23 @@ div{
 }
 
 .img0{
-    background-image: url(./Pillars\ of\ creation.png);
+    background-image: url(../Images/Pillars\ of\ creation.png);
     min-height: 500px;
 }
 .img1{
-    background-image: url(./karina\ nebula.png);
+    background-image: url(../Images/karina\ nebula.png);
     min-height: 350px;
 }
 .img2{
-    background-image: url(./StephensQuintet.png);
+    background-image: url(../Images/StephensQuintet.png);
     min-height: 350px;
 }
 .img3{
-    background-image: url(./Southern\ Ring\ Nebula.png);
+    background-image: url(../Images/Southern\ Ring\ Nebula.png);
     min-height: 350px;
 }
 .img4{
-    background-image: url(./SMACS.png);
+    background-image: url(../Images/SMACS.png);
     min-height: 350px;
 }
 
